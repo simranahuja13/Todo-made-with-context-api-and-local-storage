@@ -1,6 +1,6 @@
 # To-Do List CRUD Application 📋
 
-This is a simple To-Do list application built using React and the Context API. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations for managing your tasks. Additionally, tasks are stored in the browser's local storage for persistence. 🚀
+This is a simple To-Do list application built using React , Tailwind and the Context API. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations for managing your tasks. Additionally, tasks are stored in the browser's local storage for persistence. 🚀
 
 ## Features 🌟
 
