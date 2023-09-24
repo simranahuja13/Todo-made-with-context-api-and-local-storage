@@ -5,16 +5,16 @@ This is a simple To-Do list application built using React , Tailwind and the Con
 ## Features 🌟
 
 ### 1. Create Tasks ✅
-- To add a new task, click the "Add Task" button and enter a task description. 🆕
-- Press Enter or click the "Add" button to create the task. ➕
+-  Click the "Add Task" button and enter a task description. 🆕
+-  Click the "Add" button to create the task. ➕
   
 ### 2. Read Tasks 📖
 - All tasks are displayed in a list format, showing their description and status. 📜
-- You can mark a task as completed by clicking the checkbox next to it. ✅
+- You can mark a task as completed by clicking the checkbox before to it. ✅
   
 ### 3. Update Tasks 📝
 - To edit a task, click the "Edit" icon (pencil) next to the task. ✏️
-- Modify the task description in the input field and press Enter to save the changes. 💾
+- Modify the task description in the input field  to save the changes. 💾
   
 ### 4. Delete Tasks 🗑️
 - To delete a task, click the "Delete" icon (trash can) next to the task. 🚮
