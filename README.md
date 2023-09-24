@@ -23,5 +23,5 @@ This is a simple To-Do list application built using React and the Context API. I
 ### 5. Local Storage 📦
 - Your tasks are automatically saved to the browser's local storage, ensuring they persist even after closing the application. 💼
 - They are loaded back when you reopen the application. 🔄
-  ## How to Use
+ 
 
